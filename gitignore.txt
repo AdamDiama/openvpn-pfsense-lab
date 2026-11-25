@@ -1,7 +1,0 @@
-# Never commit VPN credentials or keys
-*.ovpn
-*.key
-*.crt
-*.pem
-*.p12
-*.csr
