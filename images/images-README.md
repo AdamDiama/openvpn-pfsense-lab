@@ -1,6 +1,6 @@
 # Screenshots
 
-Add your screenshots here using these exact file names. The docs already link to them.
+
 
 | File | What it shows |
 |---|---|
@@ -15,4 +15,3 @@ Add your screenshots here using these exact file names. The docs already link to
 | `09-capture-wan-encrypted.png` | `tcpdump` on em0, unreadable payload |
 | `10-capture-lan-readable.png` | `tcpdump` on em1, readable HTTP |
 
-Before uploading, check that no screenshot shows passwords, private keys or the contents of the `.ovpn` file.
