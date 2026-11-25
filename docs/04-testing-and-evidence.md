@@ -36,9 +36,7 @@ After restricting the OpenVPN rule to **TCP 80 → 192.168.1.50** (and resetting
 | `curl -m 5 http://192.168.1.50:8080` | Blocked (wrong port) | Timed out |
 | `ping -c 3 192.168.1.1` | Blocked (wrong destination) | No replies |
 
-![Rule before](../images/06-firewall-rule-before.png)
-![Rule after](../images/07-firewall-rule-after.png)
-![Least privilege tests](../images/08-least-privilege-tests.png)
+
 
 ## Test 4: Proving the tunnel is encrypted
 
